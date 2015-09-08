@@ -456,7 +456,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 # Projects
 
-*Outstanding Django projects.*
+* [speakerfight](https://github.com/luanfonceca/speakerfight/) - Speakerfight is an arena where the Speakers can fight each other and the people choose who wins.
 
 ## CMS
 
